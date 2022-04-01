@@ -13,3 +13,12 @@ Step 2. Create a Resource Group - The next thing is to create a resource group. 
 Step 3. Create a V-Net - The first thing we want to create in our resource group is the virtual network. This will allow our resources within to communicate and create a virtual entity. Search at the top of the portal for virtual network and create a new one. Keep in mind to link it to the resource group. 
 
 ![Github Logo](/Screenshots/VNET_Create.PNG)
+
+You can use the default address space given during creation as shown below.
+
+![Github Logo](/Screenshots/VNET_IP.PNG)
+
+The following image displays the overview of the newly created virtual network as an example.
+
+![Github Logo](/Screenshots/VNET_Overview.PNG)
+
