@@ -4,4 +4,4 @@ Manual Azure setup:
 
 Step 1. Create an Azure Subscription - First, you will need a subscription. This subscription will be tied to an email address and used to build the resources within. Azure offers a $200 credit for the first 30 days of use and is plenty of time to test and understand the concepts. Click [here](https://azure.microsoft.com/en-us/free/) to begin this process.
 
-[!alt text](Scrrenshots/Azure_free.PNG)
+[!Alt text](Screenshots/Azure_free.PNG)
