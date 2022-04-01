@@ -1,6 +1,6 @@
 This project was created to help beginners and experts alike in learning many concepts related to Cloud. This takes a DevOps approach to security and allows you to get hands-on experience with everything Azure has to offer. Many of the skills this lab allows you to get experience on is exactly what many employers today are looking for. We hope to lay out the ground work for you to begin using this sandbox to reinforce and experiment with the tools available in Azure. From Networking, Firewalls, Automation, Pentesting, Incident/Response, SIEM, SOAR, and much more. No matter what you may be interested in this will touch on it and give you the landscape needed to discover it. 
 
-The documentation below is seperated into different concepts and assists in setting up the environment. We have included the manual setup for Azure below as well to help reinforce your understanding. 
+The documentation below is seperated into different concepts and assists in setting up the environment.
 
 - We recommend creating the Manual setup to help get a feel for Azure.
 
