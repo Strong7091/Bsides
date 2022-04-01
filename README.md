@@ -2,12 +2,12 @@ This project was created to help beginners and experts alike in learning many co
 
 The documentation below is seperated into different concepts and assists in setting up the environment. We have included the manual setup for Azure below as well to help reinforce your understanding. 
 
-- We recommend creating this first and getting a feel for Azure.
+- We recommend creating the Manual setup to help get a feel for Azure.
 
-[Manual Azure Setup instructions](Documentation/Manual_Azure_Instructions.md)
+  [Manual Azure Setup instructions](Documentation/Manual_Azure_Instructions.md)
 
 - Afterwards dont hesitate to delete the Resource Group and use Terraform to automate that same process to see the power of automation. Please use the 
 
-[Automated Terraform Setup Instructions](Documentation/Terraform_Instruction.md)
+  [Automated Terraform Setup Instructions](Documentation/Terraform_Instruction.md)
 
 [Microsoft Senitinel Setup Instructions](Documentation/Microsoft_Sentinel_Setup_Instruction.md)
