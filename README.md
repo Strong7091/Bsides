@@ -3,3 +3,5 @@ This project was created to help get experience in cloud/security concepts from 
 [Manual Azure Setup instructions](Documentation/Manual_Azure_Instructions.md)
 
 [Automated Terraform Setup Instructions](Documentation/Terraform_Instruction.md)
+
+[Microsoft Senitinel Setup Instructions](Documentation/Microsoft_Sentinel_Setup_Instruction.md)
