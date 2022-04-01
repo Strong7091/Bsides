@@ -9,3 +9,7 @@ Step 1. Create an Azure Subscription - First, you will need a subscription. This
 Step 2. Create a Resource Group - The next thing is to create a resource group. The resource group is where all of our resources (VM's, V-Net, and many others) will be kept within the subscription. It is often best practice to create a resource group for different environments. Maybe one is for your production environment while the other is for the development environment. In this case this resource group will be for our lab. So make sure to place everything going forward in this resource group. After logging into your new Azure Portal go ahead and click on the resource group image and create one. Keep in mind latency and trying to keep the data center as close to your location as possible. 
 
 ![Github Logo](/Screenshots/resource.PNG)
+
+Step 3. Create a V-Net - The first thing we want to create in our resource group is the virtual network. This will allow our resources within to communicate and create a virtual entity. Search at the top of the portal for virtual network and create a new one. Keep in mind to link it to the resource group. 
+
+![Github Logo](/Screenshots/VNET_Create.PNG)
