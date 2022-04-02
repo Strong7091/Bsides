@@ -66,6 +66,6 @@ Step 7. [Associate NIC's to NSG](https://docs.microsoft.com/en-us/azure/virtual-
 
 Step 8. [Create a Log Analytics Workspace](https://docs.microsoft.com/en-us/azure/azure-monitor/logs/quick-create-workspace)
 
-- The Log Analytics workspace is used to collect data/logs from the VM's. Simply search for the service in the Portal and create. This will be used later in the [Microsoft Senitinel Setup Instructions](Documentation/Microsoft_Sentinel_Setup_Instruction.md).
+- The Log Analytics workspace is used to collect data/logs from the VM's. Simply search for the service in the Portal and create. This will be used later in the [Microsoft Senitinel Setup Instructions](./Microsoft_Sentinel_Setup_Instruction.md).
 
 ![Github Logo](/Screenshots/LogAnayltics_Create.PNG)
