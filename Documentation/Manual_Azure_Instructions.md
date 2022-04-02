@@ -54,3 +54,12 @@ Step 6. [Create Linux Virtual Machine](https://docs.microsoft.com/en-us/azure/vi
 - Similair to the Windows VM the setup is almost identical. Just keep in mind SSH will be what you use to access the VM as oppose to RDP. 
 
 ![Github Logo](/Screenshots/Ubuntu_Overview.PNG)
+
+Step 7. [Associate NIC's to NSG](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-network-interface)
+
+- In the search box at the top of the portal, enter network interfaces in the search box. When network interfaces appear in the search results, select it.
+- Select the network interface in the list that you want to associate a network security group to, or dissociate a network security group from.
+- Select Network security group under SETTINGS.
+- Select Edit.
+- Select Network security group and then select the network security group you want to associate to the network interface, or select None, to dissociate a network   security group.
+- Select Save.
