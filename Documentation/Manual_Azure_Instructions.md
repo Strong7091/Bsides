@@ -28,9 +28,7 @@ Step 3. [Create a V-Net](https://docs.microsoft.com/en-us/azure/virtual-network/
 
 Step 4. [Create a Network Security Group](https://docs.microsoft.com/en-us/azure/virtual-network/tutorial-filter-network-traffic) 
 
-- Next we want to create a a Network Security Group. We will create rules to allow or diallow traffic into our network and out of our network. For instance in the examples below we created two rules inbound so our Public IP's could have ingress into the network and establish connections to the VM's. You can use a great website called [IPChicken](https://ipchicken.com/) to quickly retrieve it. The screenshots belopw show an overview of how we set the NSG up. 
-
-- Just like previous resources fill in the relevant information. 
+- Next we want to create a a Network Security Group. We will create rules to allow or diallow traffic into our network and out of our network. For instance in the examples below we created two rules inbound so our Public IP's could have ingress into the network and establish connections to the VM's. You can use a great website called [IPChicken](https://ipchicken.com/) to quickly retrieve it. The screenshots belopw show an overview of how we set the NSG up. Just like previous resources fill in the relevant information. 
 
 ![Github Logo](/Screenshots/NSG_Create.PNG)
 
