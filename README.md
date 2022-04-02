@@ -2,7 +2,7 @@ This project was created to help beginners and experts alike in learning many co
 
 The documentation below is seperated into different concepts and assists in setting up the environment.
 
-- We recommend creating the Manual setup to help get a feel for Azure.
+- We recommend creating the Manual setup to help get a feel for Azure first.
 
   [Manual Azure Setup instructions](Documentation/Manual_Azure_Instructions.md)
 
