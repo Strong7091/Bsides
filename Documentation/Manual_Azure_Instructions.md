@@ -42,7 +42,7 @@ Step 5. [Create Windows Virtual Machine](https://docs.microsoft.com/en-us/azure/
 
 - Now its time to create our Windows VM. When creating Vm's pay close attention to the amount of cpu, ram, disk space allocated. With Azure this is not a CapEx but OpEx. You will pay for what you use. For this lab and testing purposes keep it small and simple. For our Windows VM we used "Standard DS1 v2 (1 vcpu, 3.5 GiB memory)". This kept cost minimmal. 
 
-- <ins>A couple gotcha's to keep in mind.</ins> 
+<ins>A couple gotcha's to keep in mind.</ins> 
 - Make sure to not enable advanced DDOS protection. This will increase your monthly cost. 
 - Always check the checkboxes for deleting resources tied to the VM. Example: Delete disk with VM, Delete NIC when VM is deleted, etc. This will help keep everything tidy in the future. 
 - Create a new Public IP and make it dynamic for the time being. This will automatically provision a public IP address to the VM. When you first turn the vm off it will prompt you to keep the PUBIP the same.
