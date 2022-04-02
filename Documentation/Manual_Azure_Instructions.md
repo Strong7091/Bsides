@@ -48,3 +48,9 @@ Step 5. [Create Windows Virtual Machine](https://docs.microsoft.com/en-us/azure/
 - Create a new Public IP and make it dynamic for the time being. This will automatically provision a public IP address to the VM. When you first turn the vm off it will prompt you to keep the PUBIP the same.
 
 ![Github Logo](/Screenshots/Windows_Overview.PNG)
+
+Step 6. [Create Linux Virtual Machine](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-portal)
+
+- Similair to the Windows VM the setup is almost identical. Just keep in mind SSH will be what you use to access the VM as oppose to RDP. 
+
+![Github Logo](/Screenshots/Ubuntu_Overview.PNG)
