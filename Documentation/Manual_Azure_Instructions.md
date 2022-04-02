@@ -63,3 +63,5 @@ Step 7. [Associate NIC's to NSG](https://docs.microsoft.com/en-us/azure/virtual-
 - Select Edit.
 - Select Network security group and then select the network security group you want to associate to the network interface, or select None, to dissociate a network   security group.
 - Select Save.
+
+![Github Logo](/Screenshots/NSG_NIC.PNG)
