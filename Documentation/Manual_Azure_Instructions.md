@@ -46,3 +46,5 @@ Step 5. [Create Windows Virtual Machine](https://docs.microsoft.com/en-us/azure/
 - Make sure to not enable advanced DDOS protection. This will increase your monthly cost. 
 - Always check the checkboxes for deleting resources tied to the VM. Example: Delete disk with VM, Delete NIC when VM is deleted, etc. This will help keep everything tidy in the future. 
 - Create a new Public IP and make it dynamic for the time being. This will automatically provision a public IP address to the VM. When you first turn the vm off it will prompt you to keep the PUBIP the same.
+
+![Github Logo](/Screenshots/Windows_Overview.PNG)
