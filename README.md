@@ -6,7 +6,7 @@ The documentation below is seperated into different concepts and assists in sett
 
   [Manual Azure Setup instructions](Documentation/Manual_Azure_Instructions.md)
 
-- Afterwards dont hesitate to delete the Resource Group and use Terraform to automate that same process to see the power of automation. Please use the 
+- Afterwards dont hesitate to delete the Resource Group you just created and use Terraform to automate that same process to see the power of automation.
 
   [Automated Terraform Setup Instructions](Documentation/Terraform_Instruction.md)
 
