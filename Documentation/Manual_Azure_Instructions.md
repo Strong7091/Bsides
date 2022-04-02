@@ -40,4 +40,4 @@ The following NSG rules show the two inbound rules we created for the NSG. Make 
 
 Step 5. [Create Windows Virtual Machine](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/quick-create-portal) 
 
-- 
+- Now its time to create our Windows VM. When creating Vm's pay close attention to the amount of cpu, ram, disk space allocated. With Azure this is not a CapEx but OpEx. You will pay for what you use. For this lab and testing purposes keep it small and simple. For our Windows VM we used "Standard DS1 v2 (1 vcpu, 3.5 GiB memory)". This kept cost minimmal. A couple gotcha's. Make sure to delete the NIC 
