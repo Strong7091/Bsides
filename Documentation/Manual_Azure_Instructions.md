@@ -63,3 +63,9 @@ Step 7. [Associate NIC's to NSG](https://docs.microsoft.com/en-us/azure/virtual-
 - Select Save.
 
 ![Github Logo](/Screenshots/NSG_NIC.PNG)
+
+Step 8. [Create a Log Analytics Workspace](https://docs.microsoft.com/en-us/azure/azure-monitor/logs/quick-create-workspace)
+
+- The Log Analytics workspace is used to collect data/logs from the VM's. Simply search for the service in the Portal and create. An important part of this is to download the agent that will be installed on the host to retrieve logs. You will also need to locate the Workspace ID and Primary key. These can be found in the Log Analytic Workspace after creation under the Settings --> Agents Management clade. 
+
+![Github Logo](/Screenshots/LogAnalytics_Create.PNG)
