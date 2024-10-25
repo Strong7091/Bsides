@@ -1,7 +1,13 @@
-This project was created to help get experience in cloud/security concepts from home. It is difficult to know where to begin and what to focus on. This lab is designed to help touch on many concepts in a safe environment and affordable practice. First we will begin explaining the resources utilized in Azure and how to set them up from a manual process. Then we will show how to autmoate the infrastructure using Hashicorp's Terraform platform in Azure.
+This project was created to help beginners and experts alike in learning many concepts related to Cloud. This takes a DevOps approach to security and allows you to get hands-on experience with everything Azure has to offer. Many of the skills this lab allows you to get experience on is exactly what many employers today are looking for. We hope to lay out the ground work for you to begin using this sandbox to reinforce and experiment with the tools available in Azure. From Networking, Firewalls, Automation, Pentesting, Incident/Response, SIEM, SOAR, and much more. No matter what you may be interested in this will touch on it and give you the landscape needed to discover it. 
 
-[Manual Azure Setup instructions](Documentation/Manual_Azure_Instructions.md)
+The documentation below is seperated into different concepts and assists in setting up the environment.
 
-[Automated Terraform Setup Instructions](Documentation/Terraform_Instruction.md)
+- We recommend creating the Manual setup to help get a feel for Azure first.
+
+  [Manual Azure Setup instructions](Documentation/Manual_Azure_Instructions.md)
+
+- Afterwards dont hesitate to delete the Resource Group you just created and use Terraform to automate that same process to see the power of automation.
+
+  [Automated Terraform Setup Instructions](Documentation/Terraform_Instruction.md)
 
 [Microsoft Senitinel Setup Instructions](Documentation/Microsoft_Sentinel_Setup_Instruction.md)
